@@ -14,4 +14,4 @@ RUN npm install
 COPY . .
 
 # Comando padrão ao rodar o container
-CMD ["node", "app/index.js"]
+CMD ["node", "dist/index.js"]
