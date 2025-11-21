@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    container_name: gn-clone
+    volumes:
+      - .:/app        # permite editar o código local e rodar no container
+    command: node index.js
