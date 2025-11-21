@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/lucasfurtado/clone-gn#readme",
   "devDependencies": {
+    "@types/node": "^24.10.1",
     "typescript": "^5.9.3"
   }
 }

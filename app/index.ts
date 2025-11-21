@@ -1,1 +1,1 @@
-console.log('Meu node dockerizado');
+console.log('Meu node dockerizado!');
